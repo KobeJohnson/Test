@@ -1,0 +1,89 @@
+body,html{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
+h1{
+    position: absolute;
+    padding: 3px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 10px;
+    font-family: 'Dosis', sans-serif;
+    color: white;
+}
+ul{
+    width: auto;
+    float: right;
+    margin-top: 8px;
+}
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2vw;
+}
+a:hover{
+    color: grey;
+    transition: 0.5s;
+}
+.container div{
+    background-color: black;
+    padding: 20px;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 0.6fr 1fr;
+    grid-gap: 15px;
+    margin: 15px;
+}
+.image{
+    margin: auto;
+}
+.description{
+    margin: auto;
+    color: white;
+    text-align: center;
+}
+.image-2{
+    margin: auto;
+}
+.image-3{
+    margin: auto;
+}
+.image-4{
+    margin: auto;
+}
+.image-5{
+    margin: auto;
+}
+.image-6{
+    margin: auto;
+}
+.image-7{
+    margin: auto;
+}
+.image-8{
+    margin: auto;
+}
+.image-9{
+    margin: auto;
+}
+.image-10{
+    margin: auto;
+}
+.image-11{
+    margin: auto;
+}
+.image-12{
+    margin: auto;
+}
